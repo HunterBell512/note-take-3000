@@ -34,6 +34,7 @@ body {
   height: 50px;
   margin-top: 13px;
   font-size: 3rem;
+  font-weight: bold;
 }
 
 .note-title:read-only,
@@ -46,6 +47,7 @@ body {
   border-bottom: none;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
+  border-color: #3498DB;
 }
 
 .list-container {
@@ -62,7 +64,13 @@ body {
 
 .list-item-title {
   display: inline-block;
+  font-size: 3.5vh;
+  font-weight: bold;
   width: 75%;
+}
+
+.list-group-item {
+  border-color: #3498DB;
 }
 
 .list-container i {

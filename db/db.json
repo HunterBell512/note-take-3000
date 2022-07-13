@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Express Routes",
+    "text": "Learn how to connect API routes to the front-end",
+    "id": "0"
+  },
+  {
+    "title": "SQL",
+    "text": "Learn how to make SQL queries with JS",
+    "id": "1"
+  },
+  {
+    "title": "MySQL2",
+    "text": "Learn how to make SQL queries with sequelize",
+    "id": "2"
+  }
+]
